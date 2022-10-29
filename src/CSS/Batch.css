@@ -1,0 +1,9 @@
+.scale td{
+    transform: scale(1.2);
+    padding: 1rem;
+
+}
+.scale{
+
+    box-shadow: rgba(100, 100, 111, 0.2) 10px 7px 29px 10px;
+}
